@@ -50,18 +50,21 @@ A simple and clean To-Do List built with React and Vite. Users can add, delete, 
 ## Project Structure
 
 public
-├── src/
-│   ├── components/
-│    │   ├── Header.jsx
-│    │   ├── ToDoItem.jsx
-│    │   ├── ToDoList.jsx
-│    │   └── Footer.jsx
-│    ├── App.jsx
-│    ├── icons.js
-│    ├── index.css
-│    └── main.jsx
-├── index.html
-└── package.json
+src/
+├── components/
+│   ├── Header.jsx
+│   ├── ToDoItem.jsx
+│   ├── ToDoList.jsx
+│   └── Footer.jsx
+├── App.jsx
+├── icons.js
+├── index.css
+└── main.jsx
+index.html
+package-lock.json
+package.json
+README.md
+vite.config.js
 
 ## License
 
