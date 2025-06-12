@@ -29,7 +29,7 @@ A simple and clean To-Do List built with React and Vite. Users can add, delete, 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/to-do-list.git
+    git clone [https://github.com/vandhanchowdhary/To-Do_List.git]
     cd to-do-list
     ```
 
@@ -73,7 +73,7 @@ This project is under no license. It's free to use
 ## Author
 
 Name: Kavuri Vandhan Murali
-GitHub: []
+GitHub: [https://github.com/vandhanchowdhary]
 
 ## GitHub Publishing
 
